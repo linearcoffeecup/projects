@@ -31,7 +31,7 @@ Note:  The outcome label **'1'** is for **low-risk**, and the outcome label **'0
 
 **Accuracy**:  Related to the number of outcomes from the method prediction that are the same as in the test vector.<br><br>
 **Precision**:  Related to the confusion matrix in that it represents the number of true positives out of all positives.<br><br>
-**Recall**:  Also known as "senitivity" and related to the confusion matrix in that it represents true positives out of all outcomes that 
+**Recall**:  Also known as "sensitivity" and related to the confusion matrix in that it represents true positives out of all outcomes that 
           should be positive.<br><br>
 
 
