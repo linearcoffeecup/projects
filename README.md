@@ -1,6 +1,8 @@
 
 # Project and Machine Learning
 
+## Click on the hyperlink to learn more about the project
+
 ### [COVID19](https://github.com/linearcoffeecup/projects/blob/main/COVID19.md )
 
 - Random Forest Ensemble of Decision Trees
