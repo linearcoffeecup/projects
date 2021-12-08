@@ -5,11 +5,11 @@
 
 - Random Forest Ensemble of Decision Trees
 
-### [cryptocurrencies]( )
+### [cryptocurrencies](https://github.com/linearcoffeecup/projects/blob/main/cryptocurrencies.md )
 
 - Principal Component Analysis, K-means analysis
 
-### Credit_Risk_Analysis
+### [Credit_Risk_Analysis]( )
 
 - Naive Random Oversampling, Cluster Centroids, SMOTEENN, Balanced Random Forest Classifier, Easy Ensemble ADA Boost Classifier
 
