@@ -1,11 +1,11 @@
 
 # Project and Machine Learning
 
-### [COVID19]( )
+### [COVID19](https://github.com/linearcoffeecup/projects/blob/main/COVID19.md )
 
 - Random Forest Ensemble of Decision Trees
 
-### cryptocurrencies
+### [cryptocurrencies]( )
 
 - Principal Component Analysis, K-means analysis
 
