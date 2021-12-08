@@ -13,6 +13,6 @@
 
 - Naive Random Oversampling, Cluster Centroids, SMOTEENN, Balanced Random Forest Classifier, Easy Ensemble ADA Boost Classifier
 
-### [facial_recognition]( )
+### [facial_recognition](https://github.com/linearcoffeecup/projects/blob/main/facial_recognition.md )
 
 - k nearest neighbors algorithm
