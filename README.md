@@ -9,10 +9,10 @@
 
 - Principal Component Analysis, K-means analysis
 
-### [Credit_Risk_Analysis]( )
+### [Credit_Risk_Analysis](https://github.com/linearcoffeecup/projects/blob/main/credit_risk_analysis.md )
 
 - Naive Random Oversampling, Cluster Centroids, SMOTEENN, Balanced Random Forest Classifier, Easy Ensemble ADA Boost Classifier
 
-### facial_recognition
+### [facial_recognition]( )
 
 - k nearest neighbors algorithm
