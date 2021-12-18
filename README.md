@@ -18,3 +18,7 @@
 ### [facial_recognition](https://github.com/linearcoffeecup/projects/blob/main/facial_recognition.md )
 
 - k nearest neighbors algorithm
+
+### name_classifier
+
+- Naive Bayes Optimization classifier
