@@ -1,6 +1,6 @@
 # Summary
 
-This project built a Naive Bayes Optimizer classifier.  It was designed to predict if a name was a boy's name or a girl's name.  
+This project built a Naive Bayes Optimization classifier.  It was designed to predict if a name was a boy's name or a girl's name.  
 
 The project steps were to create a feature vector from a database of names.  The labels were boy (1) or girl (-1).  The feature vectors were created using a hashing function, and from a select set of letter blocks the name features were identified with a 1 or 0 to indicate whether the feature existed or not.
 
