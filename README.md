@@ -19,6 +19,6 @@
 
 - k nearest neighbors algorithm
 
-### name_classifier
+### [name_classifier](https://github.com/linearcoffeecup/projects/blob/main/name_classifier.md)
 
 - Naive Bayes Optimization classifier
