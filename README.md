@@ -22,3 +22,7 @@
 ### [name_classifier](https://github.com/linearcoffeecup/projects/blob/main/name_classifier.md)
 
 - Naive Bayes Optimization classifier
+
+### [email_spam]
+
+- logistic regression
