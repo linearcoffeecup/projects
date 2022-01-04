@@ -23,6 +23,6 @@
 
 - Naive Bayes Optimization classifier
 
-### [email_spam]
+### [email_spam](https://github.com/linearcoffeecup/projects/blob/main/email_spam.md)
 
-- logistic regression
+- Logistic regression
